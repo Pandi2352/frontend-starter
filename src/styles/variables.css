@@ -1,0 +1,12 @@
+/* Layout & spacing variables (non-theme tokens live here) */
+
+:root {
+  --sidebar-width: 16rem;
+  --navbar-height: 4rem;
+
+  --spacing-page-x: 1rem;
+  --spacing-page-y: 1rem;
+  --spacing-section: 1.5rem;
+
+  --container-max-width: 80rem;
+}

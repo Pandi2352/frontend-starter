@@ -1,0 +1,84 @@
+{
+  "common": {
+    "appName": "Vite + NestJS",
+    "search": "Suchen...",
+    "language": "Sprache",
+    "theme": "Design",
+    "light": "Heller Modus",
+    "dark": "Dunkler Modus",
+    "system": "Systemeinstellung",
+    "goBack": "Zurück",
+    "goHome": "Dashboard",
+    "save": "Änderungen speichern",
+    "cancel": "Abbrechen",
+    "loading": "Laden...",
+    "actions": "Aktionen",
+    "status": "Status",
+    "error": "Fehler"
+  },
+  "nav": {
+    "general": "Allgemein",
+    "management": "Verwaltung",
+    "insights": "Einblicke",
+    "system": "System",
+    "dashboard": "Dashboard",
+    "users": "Benutzer",
+    "products": "Produkte",
+    "allProducts": "Alle Produkte",
+    "categories": "Kategorien",
+    "orders": "Bestellungen",
+    "invoices": "Rechnungen",
+    "analytics": "Analysen",
+    "reports": "Berichte",
+    "settings": "Einstellungen",
+    "help": "Hilfe & Support",
+    "errorPages": "Fehlerseiten",
+    "expandSidebar": "Seitenleiste ausklappen",
+    "collapseSidebar": "Seitenleiste einklappen",
+    "closeSidebar": "Seitenleiste schließen"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "welcome": "Willkommen zurück.",
+    "totalUsers": "Gesamte Benutzer",
+    "revenue": "Einnahmen",
+    "activeSessions": "Aktive Sitzungen",
+    "growth": "Wachstum",
+    "recentActivity": "Letzte Aktivitäten",
+    "recentActivityDesc": "Neueste Ereignisse in Ihrem Arbeitsbereich",
+    "noActivity": "Noch keine Aktivitäten",
+    "noActivityDesc": "Aktivitäten werden hier angezeigt, sobald Ihr Team mit der Arbeit beginnt."
+  },
+  "settings": {
+    "title": "Einstellungen",
+    "subtitle": "Verwalten Sie Ihre Anwendungseinstellungen und regionale Konfiguration.",
+    "appearance": "Erscheinungsbild",
+    "appearanceDesc": "Wechseln Sie zwischen hellem, dunklem und System-Design.",
+    "language": "Sprache & Region",
+    "languageDesc": "Wählen Sie Ihre bevorzugte Anzeige Sprache für die Benutzeroberfläche."
+  },
+  "errors": {
+    "showcaseTitle": "Fehlerseiten-Übersicht",
+    "showcaseDesc": "Interaktive Vorschau aller standardisierten Fehlerseiten.",
+    "404": {
+      "title": "Seite nicht gefunden",
+      "description": "Die angeforderte Seite konnte nicht gefunden werden oder wurde verschoben."
+    },
+    "403": {
+      "title": "Zugriff verweigert",
+      "description": "Sie haben keine Berechtigung für den Zugriff auf diese Seite."
+    },
+    "500": {
+      "title": "Interner Serverfehler",
+      "description": "Auf unseren Servern ist ein Fehler aufgetreten. Bitte aktualisieren Sie."
+    },
+    "400": {
+      "title": "Ungültige Anfrage",
+      "description": "Die an den Server gesendeten Parameter waren ungültig."
+    },
+    "503": {
+      "title": "Dienstwartung",
+      "description": "Unsere Dienste werden derzeit planmäßig gewartet."
+    }
+  }
+}

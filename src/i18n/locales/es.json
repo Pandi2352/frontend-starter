@@ -1,0 +1,84 @@
+{
+  "common": {
+    "appName": "Vite + NestJS",
+    "search": "Buscar...",
+    "language": "Idioma",
+    "theme": "Tema",
+    "light": "Modo claro",
+    "dark": "Modo oscuro",
+    "system": "Preferencia del sistema",
+    "goBack": "Volver",
+    "goHome": "Panel principal",
+    "save": "Guardar cambios",
+    "cancel": "Cancelar",
+    "loading": "Cargando...",
+    "actions": "Acciones",
+    "status": "Estado",
+    "error": "Error"
+  },
+  "nav": {
+    "general": "General",
+    "management": "Gestión",
+    "insights": "Análisis",
+    "system": "Sistema",
+    "dashboard": "Panel principal",
+    "users": "Usuarios",
+    "products": "Productos",
+    "allProducts": "Todos los productos",
+    "categories": "Categorías",
+    "orders": "Pedidos",
+    "invoices": "Facturas",
+    "analytics": "Analítica",
+    "reports": "Informes",
+    "settings": "Configuración",
+    "help": "Ayuda y soporte",
+    "errorPages": "Páginas de error",
+    "expandSidebar": "Expandir barra lateral",
+    "collapseSidebar": "Contraer barra lateral",
+    "closeSidebar": "Cerrar barra lateral"
+  },
+  "dashboard": {
+    "title": "Panel principal",
+    "welcome": "Bienvenido de nuevo.",
+    "totalUsers": "Usuarios totales",
+    "revenue": "Ingresos",
+    "activeSessions": "Sesiones activas",
+    "growth": "Crecimiento",
+    "recentActivity": "Actividad reciente",
+    "recentActivityDesc": "Últimos eventos en su espacio de trabajo",
+    "noActivity": "Aún no hay actividad",
+    "noActivityDesc": "La actividad aparecerá aquí cuando su equipo empiece a trabajar."
+  },
+  "settings": {
+    "title": "Configuración",
+    "subtitle": "Gestione sus preferencias de aplicación y configuración regional.",
+    "appearance": "Apariencia",
+    "appearanceDesc": "Cambie entre el tema claro, oscuro y del sistema.",
+    "language": "Idioma y región",
+    "languageDesc": "Seleccione su idioma preferido para la interfaz de la aplicación."
+  },
+  "errors": {
+    "showcaseTitle": "Galería de páginas de error",
+    "showcaseDesc": "Vista previa interactiva de todas las páginas de error estandarizadas.",
+    "404": {
+      "title": "Página no encontrada",
+      "description": "No se pudo encontrar la página solicitada o se ha movido."
+    },
+    "403": {
+      "title": "Acceso denegado",
+      "description": "No tiene permiso para acceder a esta página o recurso."
+    },
+    "500": {
+      "title": "Error interno del servidor",
+      "description": "Algo salió mal en nuestros servidores. Por favor intente recargar."
+    },
+    "400": {
+      "title": "Solicitud incorrecta",
+      "description": "Los parámetros enviados al servidor no son válidos."
+    },
+    "503": {
+      "title": "Mantenimiento del servicio",
+      "description": "Nuestros servicios están actualmente en mantenimiento programado."
+    }
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "common": {
+    "appName": "Vite + NestJS",
+    "search": "Rechercher...",
+    "language": "Langue",
+    "theme": "Thème",
+    "light": "Mode clair",
+    "dark": "Mode sombre",
+    "system": "Préférence système",
+    "goBack": "Retourner",
+    "goHome": "Tableau de bord",
+    "save": "Enregistrer les modifications",
+    "cancel": "Annuler",
+    "loading": "Chargement...",
+    "actions": "Actions",
+    "status": "Statut",
+    "error": "Erreur"
+  },
+  "nav": {
+    "general": "Général",
+    "management": "Gestion",
+    "insights": "Analyses",
+    "system": "Système",
+    "dashboard": "Tableau de bord",
+    "users": "Utilisateurs",
+    "products": "Produits",
+    "allProducts": "Tous les produits",
+    "categories": "Catégories",
+    "orders": "Commandes",
+    "invoices": "Factures",
+    "analytics": "Analytique",
+    "reports": "Rapports",
+    "settings": "Paramètres",
+    "help": "Aide et support",
+    "errorPages": "Pages d'erreur",
+    "expandSidebar": "Agrandir la barre latérale",
+    "collapseSidebar": "Réduire la barre latérale",
+    "closeSidebar": "Fermer la barre latérale"
+  },
+  "dashboard": {
+    "title": "Tableau de bord",
+    "welcome": "Bon retour parmi nous.",
+    "totalUsers": "Utilisateurs totaux",
+    "revenue": "Revenu",
+    "activeSessions": "Sessions actives",
+    "growth": "Croissance",
+    "recentActivity": "Activité récente",
+    "recentActivityDesc": "Derniers événements dans votre espace de travail",
+    "noActivity": "Pas encore d'activité",
+    "noActivityDesc": "L'activité apparaîtra ici dès que votre équipe commencera à travailler."
+  },
+  "settings": {
+    "title": "Paramètres",
+    "subtitle": "Gérez vos préférences d'application et la configuration régionale.",
+    "appearance": "Apparence",
+    "appearanceDesc": "Basculez entre les thèmes clair, sombre et système.",
+    "language": "Langue et région",
+    "languageDesc": "Sélectionnez votre langue d'affichage préférée pour l'interface."
+  },
+  "errors": {
+    "showcaseTitle": "Galerie des pages d'erreur",
+    "showcaseDesc": "Aperçu interactif de toutes les pages d'erreur standardisées.",
+    "404": {
+      "title": "Page non trouvée",
+      "description": "La page demandée n'a pas pu être trouvée ou a été déplacée."
+    },
+    "403": {
+      "title": "Accès refusé",
+      "description": "Vous n'avez pas la permission d'accéder à cette page."
+    },
+    "500": {
+      "title": "Erreur interne du serveur",
+      "description": "Un problème est survenu sur nos serveurs. Veuillez rafraîchir."
+    },
+    "400": {
+      "title": "Mauvaise requête",
+      "description": "Les paramètres envoyés au serveur étaient invalides."
+    },
+    "503": {
+      "title": "Maintenance du service",
+      "description": "Nos services sont actuellement en maintenance programmée."
+    }
+  }
+}

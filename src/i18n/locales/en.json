@@ -1,0 +1,84 @@
+{
+  "common": {
+    "appName": "Vite + NestJS",
+    "search": "Search...",
+    "language": "Language",
+    "theme": "Theme",
+    "light": "Light mode",
+    "dark": "Dark mode",
+    "system": "System preference",
+    "goBack": "Go Back",
+    "goHome": "Dashboard",
+    "save": "Save Changes",
+    "cancel": "Cancel",
+    "loading": "Loading...",
+    "actions": "Actions",
+    "status": "Status",
+    "error": "Error"
+  },
+  "nav": {
+    "general": "General",
+    "management": "Management",
+    "insights": "Insights",
+    "system": "System",
+    "dashboard": "Dashboard",
+    "users": "Users",
+    "products": "Products",
+    "allProducts": "All Products",
+    "categories": "Categories",
+    "orders": "Orders",
+    "invoices": "Invoices",
+    "analytics": "Analytics",
+    "reports": "Reports",
+    "settings": "Settings",
+    "help": "Help & Support",
+    "errorPages": "Error Pages",
+    "expandSidebar": "Expand sidebar",
+    "collapseSidebar": "Collapse sidebar",
+    "closeSidebar": "Close sidebar"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "welcome": "Welcome back.",
+    "totalUsers": "Total users",
+    "revenue": "Revenue",
+    "activeSessions": "Active sessions",
+    "growth": "Growth",
+    "recentActivity": "Recent activity",
+    "recentActivityDesc": "Latest events across your workspace",
+    "noActivity": "No activity yet",
+    "noActivityDesc": "Activity will appear here once your team starts working."
+  },
+  "settings": {
+    "title": "Settings",
+    "subtitle": "Manage your application preferences and regional configuration.",
+    "appearance": "Appearance",
+    "appearanceDesc": "Switch between light, dark, and system theme.",
+    "language": "Language & Region",
+    "languageDesc": "Select your preferred display language for the application interface."
+  },
+  "errors": {
+    "showcaseTitle": "Error Pages Showcase",
+    "showcaseDesc": "Interactive preview of all standardized error pages adhering strictly to zero shadows & rounded-md layout rules.",
+    "404": {
+      "title": "Page Not Found",
+      "description": "The requested page could not be found or has been moved."
+    },
+    "403": {
+      "title": "Access Denied",
+      "description": "You do not have permission to access this page or resource."
+    },
+    "500": {
+      "title": "Internal Server Error",
+      "description": "Something went wrong on our servers. Please try refreshing."
+    },
+    "400": {
+      "title": "Bad Request",
+      "description": "The request parameters sent to the server were invalid."
+    },
+    "503": {
+      "title": "Service Maintenance",
+      "description": "Our services are currently undergoing scheduled maintenance."
+    }
+  }
+}
