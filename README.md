@@ -20,6 +20,19 @@
 
 ---
 
+## 📸 Component Screenshots
+
+### 📊 Animated Dashboard & Analytics Overview
+![Dashboard Overview](docs/images/dashboard.png)
+
+### 📦 Orders & Invoice Management
+![Orders & Invoice Management](docs/images/orders.png)
+
+### ⚙️ Appearance, Accent Palette & Accessibility Settings
+![Settings & Accessibility](docs/images/settings.png)
+
+---
+
 ## 🎨 Color Palette & Accent Themes
 
 The portal features a **Dynamic Accent Color Engine** that injects CSS custom properties into `:root` and `.dark` at runtime.
@@ -61,28 +74,6 @@ The portal features a **Dynamic Accent Color Engine** that injects CSS custom pr
 
 ### 👁️ High Contrast & Custom Borders
 - **Accessibility Engine**: Toggle High Contrast mode and configure border thickness (`1px Thin`, `2px Medium`, `3px Thick`).
-
----
-
-## 📸 Component Screenshots
-
-```text
-+-----------------------------------------------------------------------+
-|  [Logo] Dashboard   Users   Orders   Settings      [Ctrl+K] 📟 🔔 🇺🇸 🌙 |
-+-----------------------------------------------------------------------+
-|  Dashboard Overview                        [Customize Layout] [Live]  |
-|  +--------------+  +--------------+  +--------------+  +-----------+  |
-|  | Revenue      |  | Total Users  |  | Orders       |  | System    |  |
-|  | $62,000      |  | 3,100        |  | 1,250        |  | 99.9%     |  |
-|  +--------------+  +--------------+  +--------------+  +-----------+  |
-|                                                                       |
-|  Revenue Growth (Area Chart)         Order Fulfillment (Bar Chart)    |
-|  [~~~~~~~~ Gradient Area ~~~~~~~~]   [  ||   ||   ||   ||   ||  ]     |
-|                                                                       |
-|  Category Breakdown (Donut Chart)    System SLA Audit (Radar Chart)   |
-|  (   $126k Sales Donut Ring   )      / \ Spider Web Polygon  / \      |
-+-----------------------------------------------------------------------+
-```
 
 ---
 
