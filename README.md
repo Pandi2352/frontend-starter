@@ -142,7 +142,7 @@ npm run dev
 
 | Command | Description |
 |---|---|
-| `npm run dev` | Start local Vite development server at `http://localhost:5173` |
+| `npm run dev` | Start local Vite development server at `http://localhost:3000` |
 | `npm run typecheck` | Execute TypeScript strict type check |
 | `npm run lint` | Run ESLint check across all files |
 | `npm run lint:fix` | Automatically fix ESLint formatting & import ordering |
